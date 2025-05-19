@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oniolalekan
-- 👀 I’m interested in Data Engineering, Software Development, and Data Analytics
-- 🌱 I’m currently learning Apache Spark
+- 👀 I’m interested in Computer Vision, Software Development, Machine Learning, and Data Engineering
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: olalekan.joseph@gmail.com
 
