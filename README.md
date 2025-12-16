@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oniolalekan
-- 👀 I’m interested in Computer Vision, Software Development, Machine Learning, and Data Engineering
+- 👀 I’m interested in Automated Testing/Quality Engineering, Computer Vision, Software Development, Machine Learning, and Data Engineering
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: olalekan.joseph@gmail.com
